@@ -57,3 +57,4 @@ if uploaded_file is not None:
         st.pyplot(fig)
 else:
     st.write("Sube un archivo CSV para comenzar.")
+
